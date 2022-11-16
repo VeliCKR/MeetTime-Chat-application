@@ -6,5 +6,5 @@ a chat application ui created using flutter. this application consits of two pag
 | HomeScreen                      | Chat Room Screen
 --------------------------------- | ---------------------------------
 <img src="screenshot/app-screen-1.png" width="400"> | <img src="screenshot/app-screen-2.png" width="400">
-<img src="screenshot/video.gif"> |
+ 
 
